@@ -1,0 +1,2563 @@
+[
+ {
+  "id": "Q001",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-03",
+  "mutable": false,
+  "q": "India won the men's cricket gold at the 2026 Asian Games in Japan. Which team did India beat in the final on 3 October 2026?",
+  "ans": "Pakistan",
+  "d": [
+   "Sri Lanka",
+   "Bangladesh",
+   "Afghanistan"
+  ],
+  "exp": "India made 211-6 and won the final in Nagoya by 19 runs after Pakistan finished on 192-6. It was India's second Asian Games men's gold in a row.",
+  "src": "BBC Sport, 3 Oct 2026",
+  "url": "https://www.bbc.com/sport/cricket/articles/c64g1dpgg247o"
+ },
+ {
+  "id": "Q002",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-09-22",
+  "mutable": false,
+  "q": "Which team did India beat in the women's cricket final at the 2026 Asian Games on 22 September 2026?",
+  "ans": "Sri Lanka",
+  "d": [
+   "Pakistan",
+   "Bangladesh",
+   "Japan"
+  ],
+  "exp": "India won by 147 runs and kept their Asian Games gold medal. Sri Lanka took silver and Pakistan took bronze.",
+  "src": "Al Jazeera, 22 Sep 2026",
+  "url": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final"
+ },
+ {
+  "id": "Q003",
+  "cat": "CA",
+  "topic": "Government",
+  "asof": "2026-09-18",
+  "mutable": false,
+  "q": "What is the theme of the Swachhata Hi Seva 2026 campaign?",
+  "ans": "Swachhata Mein Sahbhag",
+  "d": [
+   "Swachh Gaon Swasth Gaon",
+   "Plastic Free Bharat",
+   "Clean Rivers Clean India"
+  ],
+  "exp": "The theme stresses shared ownership, youth involvement and steady cleanliness habits. The Swachh Bharat Mission began on 2 October 2014, and 2 October is marked as Swachh Bharat Diwas.",
+  "src": "Press Information Bureau, 18 Sep 2026; The Tribune, 2 Oct 2026",
+  "url": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=160036&lang=1&reg=3"
+ },
+ {
+  "id": "Q004",
+  "cat": "CA",
+  "topic": "World",
+  "asof": "2026-09-28",
+  "mutable": false,
+  "q": "Which session of the United Nations General Assembly held its high-level week in September 2026?",
+  "ans": "81st",
+  "d": [
+   "79th",
+   "80th",
+   "82nd"
+  ],
+  "exp": "The United Nations identifies its September 2026 high-level week as part of the 81st General Assembly session. Rechecked on 5 October 2026.",
+  "src": "United Nations, High-level Week 2026; US State Department schedule, 21 Sep 2026",
+  "url": "https://www.un.org/en/high-level-week-2026"
+ },
+ {
+  "id": "Q005",
+  "cat": "CA",
+  "topic": "World",
+  "asof": "2026-10-05",
+  "mutable": false,
+  "q": "On which date did the 2026 Nobel Prize announcements begin?",
+  "ans": "5 October",
+  "d": [
+   "1 October",
+   "9 October",
+   "12 October"
+  ],
+  "exp": "The official 2026 announcement schedule begins on 5 October and ends on 12 October. This date was rechecked on 6 October 2026.",
+  "src": "nobelprize.org; rechecked 6 October 2026; rechecked 7 October 2026; rechecked 8 October 2026",
+  "url": "https://www.nobelprize.org/prizes/about/prize-announcement-dates/"
+ },
+ {
+  "id": "Q006",
+  "cat": "GK",
+  "topic": "Sports",
+  "asof": "static",
+  "mutable": false,
+  "q": "Who became the first Indian to win an individual Olympic gold medal, at the 2008 Beijing Games?",
+  "ans": "Abhinav Bindra",
+  "d": [
+   "Leander Paes",
+   "Sushil Kumar",
+   "Mary Kom"
+  ],
+  "exp": "Abhinav Bindra, a shooter, won India's first individual Olympic gold in Beijing in 2008.",
+  "src": "Olympics.com",
+  "url": "https://www.olympics.com/en/news/india-s-first-individual-gold-medal"
+ },
+ {
+  "id": "Q007",
+  "cat": "GK",
+  "topic": "Science and space",
+  "asof": "static",
+  "mutable": false,
+  "q": "In which year did India's Chandrayaan-3 lander soft-land on the Moon?",
+  "ans": "2023",
+  "d": [
+   "2019",
+   "2021",
+   "2025"
+  ],
+  "exp": "Chandrayaan-3 soft-landed on the Moon on 23 August 2023.",
+  "src": "ISRO; rechecked 6 October 2026; rechecked 7 October 2026; rechecked 8 October 2026",
+  "url": "https://www.isro.gov.in/Chandrayaan3.html"
+ },
+ {
+  "id": "Q008",
+  "cat": "GK",
+  "topic": "Civics",
+  "asof": "static",
+  "mutable": false,
+  "q": "On which date did the Constitution of India come into effect?",
+  "ans": "26 January 1950",
+  "d": [
+   "15 August 1947",
+   "26 November 1949",
+   "2 October 1950"
+  ],
+  "exp": "The Constitution came into effect on 26 January 1950, which India celebrates as Republic Day. It was adopted earlier, on 26 November 1949.",
+  "src": "Britannica",
+  "url": "https://www.britannica.com/topic/Constitution-of-India"
+ },
+ {
+  "id": "Q009",
+  "cat": "GK",
+  "topic": "Science and space",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which is the largest planet in our solar system?",
+  "ans": "Jupiter",
+  "d": [
+   "Saturn",
+   "Neptune",
+   "Earth"
+  ],
+  "exp": "Jupiter is the largest planet. About 1,000 Earths could fit inside it.",
+  "src": "NASA",
+  "url": "https://science.nasa.gov/jupiter/jupiter-facts/"
+ },
+ {
+  "id": "Q010",
+  "cat": "GK",
+  "topic": "Science and space",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which planet is often called the Red Planet?",
+  "ans": "Mars",
+  "d": [
+   "Venus",
+   "Mercury",
+   "Jupiter"
+  ],
+  "exp": "Mars looks red because iron minerals in its soil and dust have rusted.",
+  "src": "NASA",
+  "url": "https://science.nasa.gov/mars/facts/"
+ },
+ {
+  "id": "Q011",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-09-13",
+  "mutable": false,
+  "q": "India won the Women's Asia Cup in September 2026. How many titles has India now won in the tournament?",
+  "ans": "Eight",
+  "d": [
+   "Six",
+   "Seven",
+   "Nine"
+  ],
+  "exp": "India beat Sri Lanka in the final on 13 September 2026 and went through the tournament unbeaten, a record-extending eighth title.",
+  "src": "ICC, 13 Sep 2026",
+  "url": "https://www.icc-cricket.com/news/india-cruise-to-record-extending-eighth-women-s-asia-cup-title"
+ },
+ {
+  "id": "Q012",
+  "cat": "CA",
+  "topic": "Economy",
+  "asof": "2026-09-14",
+  "mutable": false,
+  "q": "India's retail inflation based on the Consumer Price Index (CPI) for August 2026 was about how much?",
+  "ans": "4.82%",
+  "d": [
+   "2.10%",
+   "6.35%",
+   "8.75%"
+  ],
+  "exp": "The provisional figure was released on 14 September 2026. Food inflation for the month was 5.95%.",
+  "src": "Press Information Bureau, 14 Sep 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?lang=2&PRID=2310058&reg=48"
+ },
+ {
+  "id": "Q013",
+  "cat": "GK",
+  "topic": "Science and space",
+  "asof": "static",
+  "mutable": false,
+  "q": "What is the name of India's own independent satellite navigation system, earlier called IRNSS?",
+  "ans": "NavIC",
+  "d": [
+   "Disha-1",
+   "BharatNav",
+   "SwaDesh GPS"
+  ],
+  "exp": "NavIC stands for Navigation with Indian Constellation. It was earlier known as the Indian Regional Navigation Satellite System (IRNSS).",
+  "src": "ISRO; rechecked 6 October 2026; rechecked 7 October 2026; rechecked 8 October 2026",
+  "url": "https://www.isro.gov.in/Navic.html"
+ },
+ {
+  "id": "Q014",
+  "cat": "GK",
+  "topic": "History and culture",
+  "asof": "static",
+  "mutable": false,
+  "q": "Who wrote the song Jana Gana Mana, which is India's national anthem?",
+  "ans": "Rabindranath Tagore",
+  "d": [
+   "Bankim Chandra Chatterjee",
+   "Sarojini Naidu",
+   "Muhammad Iqbal"
+  ],
+  "exp": "Rabindranath Tagore wrote Jana Gana Mana in Bengali. The Constituent Assembly adopted it as the national anthem on 24 January 1950.",
+  "src": "Know India (Government of India)",
+  "url": "https://knowindia.india.gov.in/hindi/national-identity-elements/national-anthem.php"
+ },
+ {
+  "id": "Q015",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "static",
+  "mutable": false,
+  "q": "The Thar Desert lies mainly in which Indian state?",
+  "ans": "Rajasthan",
+  "d": [
+   "Kerala",
+   "Odisha",
+   "Assam"
+  ],
+  "exp": "The Thar Desert is in north-western India, partly in Rajasthan, and also extends into eastern Pakistan.",
+  "src": "Britannica",
+  "url": "https://www.britannica.com/place/Thar-Desert"
+ },
+ {
+  "id": "Q016",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-03",
+  "mutable": false,
+  "q": "On which date did the 2026 Asian Games in Aichi-Nagoya close?",
+  "ans": "4 October",
+  "d": [
+   "30 September",
+   "10 October",
+   "19 October"
+  ],
+  "exp": "The closing ceremony is on 4 October 2026.",
+  "src": "Olympic Council of Asia",
+  "url": "https://oca.asia/games/111-aichi-nagoya-2026.html"
+ },
+ {
+  "id": "Q017",
+  "cat": "CA",
+  "topic": "Science and space",
+  "asof": "2026-10-03",
+  "mutable": false,
+  "q": "World Space Week 2026 runs from 4 to 10 October. The 4 October date marks the 1957 launch of which satellite?",
+  "ans": "Sputnik 1",
+  "d": [
+   "Apollo 11",
+   "Aryabhata",
+   "Hubble"
+  ],
+  "exp": "Sputnik 1 was the first human-made Earth satellite, launched on 4 October 1957. The 2026 theme is Rocket Revolution.",
+  "src": "United Nations",
+  "url": "https://www.un.org/en/observances/world-space-week"
+ },
+ {
+  "id": "Q018",
+  "cat": "CA",
+  "topic": "Economy",
+  "asof": "2026-10-01",
+  "mutable": false,
+  "q": "India's gross GST collections for September 2026 were about how much?",
+  "ans": "₹2.04 lakh crore",
+  "d": [
+   "₹1.20 lakh crore",
+   "₹3.10 lakh crore",
+   "₹4.50 lakh crore"
+  ],
+  "exp": "Gross GST revenue was ₹2,03,521 crore, up 14.7% from ₹1,77,365 crore in September 2025. The numbers are provisional.",
+  "src": "GST portal monthly revenue report, Sep 2026",
+  "url": "https://tutorial.gst.gov.in/downloads/news/final_gst_revenue_report_for_publishing_monthly_sep_2026.pdf"
+ },
+ {
+  "id": "Q019",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-03",
+  "mutable": false,
+  "q": "India won the men's hockey gold at the 2026 Asian Games on 3 October. Which team did India beat in the final?",
+  "ans": "Malaysia",
+  "d": [
+   "Pakistan",
+   "South Korea",
+   "Japan"
+  ],
+  "exp": "India beat Malaysia 5-1 in Kakamigahara and defended their Asian Games title. The win also gave India a direct place in the 2028 Los Angeles Olympics.",
+  "src": "The Hindu, top news of the day, 3 October 2026",
+  "url": "https://www.thehindu.com/news/top-news-of-the-day-october-3-2026/article71540630.ece"
+ },
+ {
+  "id": "Q020",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-04",
+  "mutable": false,
+  "q": "How many medals did India win in total at the 2026 Asian Games?",
+  "ans": "85",
+  "d": [
+   "106",
+   "70",
+   "93"
+  ],
+  "exp": "India finished with 85 medals: 21 gold, 27 silver and 37 bronze. That is below its 106 medals at Hangzhou 2022.",
+  "src": "Sportstar (The Hindu), final medal tally, 4 October 2026",
+  "url": "https://sportstar.thehindu.com/asian-games/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count/article71542939.ece"
+ },
+ {
+  "id": "Q021",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-04",
+  "mutable": false,
+  "q": "Where did India finish in the final medal table of the 2026 Asian Games?",
+  "ans": "Fourth",
+  "d": [
+   "Second",
+   "Third",
+   "Fifth"
+  ],
+  "exp": "India was fourth, ahead of Uzbekistan because it had more silver medals (both won 21 golds). China, Japan and South Korea were first to third.",
+  "src": "Sportstar (The Hindu), final medal tally, 4 October 2026",
+  "url": "https://sportstar.thehindu.com/asian-games/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count/article71542939.ece"
+ },
+ {
+  "id": "Q022",
+  "cat": "CA",
+  "topic": "Railways",
+  "asof": "2026-10-02",
+  "mutable": false,
+  "q": "A new Vande Bharat Express was flagged off on 2 October 2026 between Surat and Udaipur. Which two states does it connect?",
+  "ans": "Gujarat and Rajasthan",
+  "d": [
+   "Gujarat and Maharashtra",
+   "Rajasthan and Madhya Pradesh",
+   "Maharashtra and Rajasthan"
+  ],
+  "exp": "The train, number 26963/26964, covers about 690 km in around 7 hours 30 minutes. It was flagged off at a ceremony in Surat, Gujarat.",
+  "src": "Indian Express, 1 October 2026; Udaipur Times, 2 October 2026",
+  "url": "https://indianexpress.com/article/india/surat-udaipur-vande-bharat-launch-route-stops-timings-fare-10901737/"
+ },
+ {
+  "id": "Q023",
+  "cat": "CA",
+  "topic": "World",
+  "asof": "2026-10-03",
+  "mutable": false,
+  "q": "On 3 October 2026, Russia hit a second major bridge in which capital city?",
+  "ans": "Kyiv",
+  "d": [
+   "Warsaw",
+   "Minsk",
+   "Tbilisi"
+  ],
+  "exp": "Kyiv's mayor said a Russian strike hit a second major bridge in the capital on Saturday morning. Two people were injured.",
+  "src": "BBC News, 3 October 2026",
+  "url": "https://www.bbc.com/news/articles/c83vqxzdg1yko"
+ },
+ {
+  "id": "Q024",
+  "cat": "GK",
+  "topic": "History and culture",
+  "asof": "static",
+  "mutable": false,
+  "q": "In which Indian town was Mahatma Gandhi born, on 2 October 1869?",
+  "ans": "Porbandar",
+  "d": [
+   "Rajkot",
+   "Ahmedabad",
+   "Wardha"
+  ],
+  "exp": "Gandhi was born in Porbandar. His birthday, 2 October, is marked as Gandhi Jayanti.",
+  "src": "Britannica, Mahatma Gandhi",
+  "url": "https://www.britannica.com/biography/Mahatma-Gandhi"
+ },
+ {
+  "id": "Q025",
+  "cat": "CA",
+  "topic": "India: skills",
+  "asof": "2026-10-05",
+  "mutable": false,
+  "q": "Which institutions does PM-SETU focus on upgrading, according to the PIB update of 3 October 2026?",
+  "ans": "Government Industrial Training Institutes (ITIs)",
+  "d": [
+   "Primary schools",
+   "Public libraries",
+   "District courts"
+  ],
+  "exp": "PM-SETU is a vocational-skills programme focused on modernising Government ITIs and making their training more relevant to industry.",
+  "src": "PIB, 3 October 2026",
+  "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/oct/doc_10077_20261003_15142301.pdf"
+ },
+ {
+  "id": "Q026",
+  "cat": "CA",
+  "topic": "India: science",
+  "asof": "2026-10-05",
+  "mutable": true,
+  "q": "According to the PIB update of 4 October 2026, how many supercomputers had India deployed under the National Supercomputing Mission by September 2026?",
+  "ans": "40",
+  "d": [
+   "14",
+   "68",
+   "100"
+  ],
+  "exp": "The dated PIB update reports 40 deployed supercomputers with a combined capacity of 68 petaflops as of September 2026. The count and capacity are different measures.",
+  "src": "PIB, 4 October 2026; rechecked 6 October 2026; rechecked 7 October 2026; rechecked 8 October 2026; rechecked 9 October 2026",
+  "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/oct/doc_10085_20261004_17525901.pdf"
+ },
+ {
+  "id": "Q027",
+  "cat": "CA",
+  "topic": "India: science",
+  "asof": "2026-10-05",
+  "mutable": true,
+  "q": "The October 2026 ESTIC science and technology conclave is scheduled at Bharat Mandapam in which Indian city?",
+  "ans": "New Delhi",
+  "d": [
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "exp": "The PIB update of 4 October lists ESTIC-2026 for 27-29 October at Bharat Mandapam, New Delhi. This is a scheduled event, not a completed one.",
+  "src": "PIB, 4 October 2026",
+  "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/oct/doc_10085_20261004_17525901.pdf"
+ },
+ {
+  "id": "Q028",
+  "cat": "CA",
+  "topic": "World: science",
+  "asof": "2026-10-05",
+  "mutable": false,
+  "q": "The 2026 Nobel Prize in Physiology or Medicine, announced on 5 October, recognises discoveries behind which method?",
+  "ans": "Optogenetics",
+  "d": [
+   "Carbon dating",
+   "Plate tectonics",
+   "Radio astronomy"
+  ],
+  "exp": "The Nobel Assembly awarded Karl Deisseroth, Peter Hegemann and Georg Nagel for discoveries concerning light-gated ion channels and optogenetics, a method for controlling nerve signals with light.",
+  "src": "Nobel Assembly, 5 October 2026; rechecked 6 October 2026",
+  "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/"
+ },
+ {
+  "id": "Q029",
+  "cat": "CA",
+  "topic": "World: space",
+  "asof": "2026-10-05",
+  "mutable": false,
+  "q": "What is the theme of World Space Week 2026, according to UN News on 4 October?",
+  "ans": "Rocket revolution",
+  "d": [
+   "Ocean restoration",
+   "Digital farming",
+   "Polar exploration"
+  ],
+  "exp": "The dated UN News article names Rocket revolution as the 2026 theme, focusing on changes in how people reach space.",
+  "src": "UN News, 4 October 2026; rechecked 6 October 2026",
+  "url": "https://news.un.org/en/story/2026/10/1168517"
+ },
+ {
+  "id": "Q030",
+  "cat": "GK",
+  "topic": "Science",
+  "asof": "2026-10-05",
+  "mutable": false,
+  "q": "Which green pigment in plants absorbs light energy for photosynthesis?",
+  "ans": "Chlorophyll",
+  "d": [
+   "Hemoglobin",
+   "Keratin",
+   "Melanin"
+  ],
+  "exp": "Chlorophyll is a key pigment involved in photosynthesis. It absorbs light energy used by plants to make food.",
+  "src": "Britannica, checked 5 October 2026",
+  "url": "https://www.britannica.com/science/chlorophyll"
+ },
+ {
+  "id": "Q031",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which is the largest ocean on Earth?",
+  "ans": "Pacific Ocean",
+  "d": [
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Arctic Ocean"
+  ],
+  "exp": "The Pacific is the largest ocean and covers about one-third of Earth's surface.",
+  "src": "Britannica, checked 5 October 2026; rechecked 6 October 2026",
+  "url": "https://www.britannica.com/place/Pacific-Ocean"
+ },
+ {
+  "id": "Q032",
+  "cat": "CA",
+  "topic": "World: science",
+  "asof": "2026-10-06",
+  "mutable": false,
+  "q": "Which observatory is named in the citation for the 2026 Nobel Prize in Physics announced on 6 October?",
+  "ans": "IceCube Neutrino Observatory",
+  "d": [
+   "Hubble Space Telescope",
+   "James Webb Space Telescope",
+   "LIGO Observatory"
+  ],
+  "exp": "The Nobel citation recognises Francis Halzen for his contributions to IceCube and the discovery of high-energy neutrinos from astrophysical sources.",
+  "src": "Nobel Academy, 6 October 2026; rechecked 7 October 2026; rechecked 8 October 2026",
+  "url": "https://www.nobelprize.org/prizes/physics/2026/press-release/"
+ },
+ {
+  "id": "Q033",
+  "cat": "CA",
+  "topic": "India: energy",
+  "asof": "2026-10-06",
+  "mutable": false,
+  "q": "The Green Energy Corridor Phase-III scheme approved on 30 September 2026 mainly strengthens transmission for which type of energy?",
+  "ans": "Renewable energy",
+  "d": [
+   "Coal mining",
+   "Petrol refining",
+   "Diesel road transport"
+  ],
+  "exp": "The PIB release says the scheme strengthens intra-state transmission so electricity from renewable sources can reach the grid.",
+  "src": "PIB, 30 September 2026; rechecked 7 October 2026; rechecked 8 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2316950&lang=1&reg=3"
+ },
+ {
+  "id": "Q034",
+  "cat": "CA",
+  "topic": "India: energy",
+  "asof": "2026-10-06",
+  "mutable": false,
+  "q": "The GOBARdhan scheme launched on 1 October 2026 supports development of which fuel sector?",
+  "ans": "Compressed biogas",
+  "d": [
+   "Aviation turbine fuel",
+   "Liquefied petroleum gas",
+   "Coal-based coke"
+  ],
+  "exp": "The dated PIB launch report describes GOBARdhan as a scheme for the Compressed Biogas sector.",
+  "src": "PIB, 1 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317937&lang=1&reg=3"
+ },
+ {
+  "id": "Q035",
+  "cat": "CA",
+  "topic": "India: industry",
+  "asof": "2026-10-06",
+  "mutable": false,
+  "q": "The PIB announcement of 5 October placed the HAL Koraput aero-engine milestone event in which state?",
+  "ans": "Odisha",
+  "d": [
+   "Karnataka",
+   "Maharashtra",
+   "Tamil Nadu"
+  ],
+  "exp": "The announcement locates HAL Koraput Division in Odisha and schedules the 2000th aero-engine milestone event for 6 October. This question asks the location, not whether the event has finished.",
+  "src": "PIB, 5 October 2026; rechecked 7 October 2026; rechecked 8 October 2026; rechecked 9 October 2026; rechecked 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319187&lang=1&reg=3"
+ },
+ {
+  "id": "Q036",
+  "cat": "CA",
+  "topic": "World: cities",
+  "asof": "2026-10-06",
+  "mutable": false,
+  "q": "What was the theme of World Habitat Day on 5 October 2026?",
+  "ans": "Adequate Housing for All",
+  "d": [
+   "Rocket revolution",
+   "Clean Oceans for All",
+   "Digital Education for All"
+  ],
+  "exp": "UN News reports that World Habitat Day 2026 focused on Adequate Housing for All. The commemoration took place in Muscat, Oman.",
+  "src": "UN News, 5 October 2026; rechecked 7 October 2026; rechecked 8 October 2026; rechecked 9 October 2026; rechecked 10 October 2026; rechecked 11 October 2026",
+  "url": "https://news.un.org/en/story/2026/10/1168520"
+ },
+ {
+  "id": "Q037",
+  "cat": "GK",
+  "topic": "Biology",
+  "asof": "static",
+  "mutable": false,
+  "q": "How many chambers are in a normal human heart?",
+  "ans": "Four",
+  "d": [
+   "Two",
+   "Three",
+   "Six"
+  ],
+  "exp": "The heart has two atria and two ventricles, making four chambers.",
+  "src": "Britannica, checked 6 October 2026; rechecked 7 October 2026; rechecked 8 October 2026; rechecked 9 October 2026",
+  "url": "https://www.britannica.com/science/heart"
+ },
+ {
+  "id": "Q038",
+  "cat": "GK",
+  "topic": "Chemistry",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which two elements make up water?",
+  "ans": "Hydrogen and oxygen",
+  "d": [
+   "Hydrogen and nitrogen",
+   "Carbon and oxygen",
+   "Sodium and chlorine"
+  ],
+  "exp": "A water molecule has two hydrogen atoms and one oxygen atom, represented by H2O.",
+  "src": "Britannica, checked 6 October 2026; rechecked 9 October 2026",
+  "url": "https://www.britannica.com/science/water"
+ },
+ {
+  "id": "Q039",
+  "cat": "CA",
+  "topic": "World: science",
+  "asof": "2026-10-07",
+  "mutable": false,
+  "q": "Which pair received the 2026 Nobel Prize in Chemistry announced on 7 October?",
+  "ans": "Henri B. Kagan and Kenso Soai",
+  "d": [
+   "Karl Deisseroth and Georg Nagel",
+   "Francis Halzen and Peter Hegemann",
+   "Emmanuelle Charpentier and Jennifer Doudna"
+  ],
+  "exp": "The official Nobel announcement names Henri B. Kagan and Kenso Soai for discoveries about non-linear effects and autocatalysis in asymmetric organic synthesis.",
+  "src": "Nobel Academy, 7 October 2026; rechecked 10 October 2026",
+  "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/"
+ },
+ {
+  "id": "Q040",
+  "cat": "CA",
+  "topic": "India: maritime",
+  "asof": "2026-10-07",
+  "mutable": false,
+  "q": "What is the name of the first indigenous Fleet Support Ship launched at Hindustan Shipyard in Visakhapatnam on 6 October 2026?",
+  "ans": "Surya",
+  "d": [
+   "Vikrant",
+   "Arihant",
+   "Vikramaditya"
+  ],
+  "exp": "The 6 October report names the Fleet Support Ship Surya. The question asks the name, not its operational service status.",
+  "src": "PIB, 6 October 2026; rechecked 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319481&lang=1&reg=3"
+ },
+ {
+  "id": "Q041",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-07",
+  "mutable": false,
+  "q": "What was the official slogan of the 2026 Asian Games in Aichi-Nagoya, according to PIB on 6 October?",
+  "ans": "Imagine One Asia",
+  "d": [
+   "One World One Dream",
+   "United by Emotion",
+   "Faster Together"
+  ],
+  "exp": "The PIB overview dated 6 October identifies Imagine One Asia as the official slogan of the Aichi-Nagoya 2026 Asian Games.",
+  "src": "PIB, 6 October 2026; rechecked 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2319703&lang=1&reg=3"
+ },
+ {
+  "id": "Q042",
+  "cat": "CA",
+  "topic": "India: manufacturing",
+  "asof": "2026-10-07",
+  "mutable": false,
+  "q": "The PIB factsheet of 17 September 2026 describes ECMS as a scheme supporting manufacturing of what?",
+  "ans": "Electronic components",
+  "d": [
+   "Agricultural fertilisers",
+   "Railway coaches",
+   "Cotton clothing"
+  ],
+  "exp": "ECMS means Electronics Components Manufacturing Scheme. The dated factsheet describes support for India's electronic-component production.",
+  "src": "PIB, 17 September 2026",
+  "url": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=151016&lang=1&reg=3+"
+ },
+ {
+  "id": "Q043",
+  "cat": "CA",
+  "topic": "World: climate",
+  "asof": "2026-10-07",
+  "mutable": false,
+  "q": "The El Nino pattern discussed by UN News on 6 October is linked to unusual warming in which ocean?",
+  "ans": "Pacific Ocean",
+  "d": [
+   "Arctic Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean"
+  ],
+  "exp": "UN News describes the El Nino pattern in the tropical Pacific and how it can change rainfall far away. This question does not ask for a forecast outcome.",
+  "src": "UN News, 6 October 2026",
+  "url": "https://news.un.org/en/story/2026/10/1168537"
+ },
+ {
+  "id": "Q044",
+  "cat": "GK",
+  "topic": "Biology",
+  "asof": "static",
+  "mutable": false,
+  "q": "The femur is the bone in which part of the human body?",
+  "ans": "Thigh",
+  "d": [
+   "Forearm",
+   "Skull",
+   "Chest"
+  ],
+  "exp": "The femur is the upper leg bone, joining the hip and knee.",
+  "src": "Britannica, checked 7 October 2026",
+  "url": "https://www.britannica.com/science/femur"
+ },
+ {
+  "id": "Q045",
+  "cat": "GK",
+  "topic": "Science",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which gas do green plants use from the air during photosynthesis?",
+  "ans": "Carbon dioxide",
+  "d": [
+   "Helium",
+   "Hydrogen",
+   "Neon"
+  ],
+  "exp": "Photosynthesis uses carbon dioxide and water, with light energy, to produce sugars and release oxygen.",
+  "src": "Britannica, checked 7 October 2026",
+  "url": "https://www.britannica.com/science/photosynthesis"
+ },
+ {
+  "id": "Q046",
+  "cat": "CA",
+  "topic": "World: literature",
+  "asof": "2026-10-08",
+  "mutable": false,
+  "q": "Who was awarded the 2026 Nobel Prize in Literature on 8 October?",
+  "ans": "Anne Carson",
+  "d": [
+   "Margaret Atwood",
+   "Salman Rushdie",
+   "Haruki Murakami"
+  ],
+  "exp": "The official Nobel homepage names Canadian author Anne Carson. The announcement was also reported by BBC on 8 October.",
+  "src": "NobelPrize.org and BBC, 8 October 2026; rechecked 9 October 2026; rechecked 10 October 2026; rechecked 11 October 2026",
+  "url": "https://www.nobelprize.org/prizes/literature/2026/press-release/"
+ },
+ {
+  "id": "Q047",
+  "cat": "CA",
+  "topic": "India: health",
+  "asof": "2026-10-08",
+  "mutable": false,
+  "q": "The JOSH Teams initiative announced by PIB on 8 October supports efforts to eliminate which disease?",
+  "ans": "Tuberculosis",
+  "d": [
+   "Malaria",
+   "Polio",
+   "Measles"
+  ],
+  "exp": "The dated health ministry release describes youth-led community action by JOSH Teams to support tuberculosis elimination.",
+  "src": "PIB, 8 October 2026; rechecked 9 October 2026; rechecked 11 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320653&lang=1&reg=48"
+ },
+ {
+  "id": "Q048",
+  "cat": "CA",
+  "topic": "India: energy",
+  "asof": "2026-10-08",
+  "mutable": false,
+  "q": "Which city hosts Windergy India 2026, according to the PIB announcement of 5 October?",
+  "ans": "Chennai",
+  "d": [
+   "Mumbai",
+   "New Delhi",
+   "Ahmedabad"
+  ],
+  "exp": "The dated announcement places Windergy India at Chennai Trade Centre from 7 to 9 October. This question asks the venue city, not whether an inauguration has finished.",
+  "src": "PIB, 5 October 2026; rechecked 9 October 2026; rechecked 11 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?lang=1&PRID=2319302&reg=3"
+ },
+ {
+  "id": "Q049",
+  "cat": "CA",
+  "topic": "India: technology",
+  "asof": "2026-10-08",
+  "mutable": false,
+  "q": "What is the theme of India Mobile Congress 2026, according to PIB on 5 October?",
+  "ans": "Scale Without Boundaries",
+  "d": [
+   "Imagine One Asia",
+   "Rocket Revolution",
+   "Adequate Housing for All"
+  ],
+  "exp": "The telecom ministry release gives Scale Without Boundaries as the theme of India Mobile Congress 2026.",
+  "src": "PIB, 5 October 2026; rechecked 11 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?lang=1&PRID=2319395&reg=48"
+ },
+ {
+  "id": "Q050",
+  "cat": "CA",
+  "topic": "India: wildlife",
+  "asof": "2026-10-08",
+  "mutable": false,
+  "q": "A PIB report on 2 October described a tigress release at Buxa Tiger Reserve. In which state is Buxa?",
+  "ans": "West Bengal",
+  "d": [
+   "Assam",
+   "Bihar",
+   "Rajasthan"
+  ],
+  "exp": "The dated wildlife release locates Buxa Tiger Reserve in West Bengal and describes a phased tiger reintroduction programme.",
+  "src": "PIB, 2 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2318110&lang=1&reg=3"
+ },
+ {
+  "id": "Q051",
+  "cat": "GK",
+  "topic": "Science",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which gas makes up the largest share of Earth's atmosphere?",
+  "ans": "Nitrogen",
+  "d": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Helium"
+  ],
+  "exp": "NASA describes the air mixture as about 78 percent nitrogen and 21 percent oxygen. Nitrogen therefore makes up the largest share.",
+  "src": "NASA, checked 8 October 2026",
+  "url": "https://science.nasa.gov/solar-system/10-things-planetary-atmospheres/"
+ },
+ {
+  "id": "Q052",
+  "cat": "GK",
+  "topic": "Science",
+  "asof": "static",
+  "mutable": false,
+  "q": "During evaporation, liquid water changes into what?",
+  "ans": "Water vapour",
+  "d": [
+   "Ice",
+   "Salt",
+   "Liquid oxygen"
+  ],
+  "exp": "Evaporation changes water from liquid into gas at the surface. Water vapour is the gaseous form of water.",
+  "src": "Britannica, checked 8 October 2026",
+  "url": "https://www.britannica.com/science/evaporation"
+ },
+ {
+  "id": "Q053",
+  "cat": "CA",
+  "topic": "World: peace",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "Who was awarded the 2026 Nobel Peace Prize on 9 October?",
+  "ans": "Navi Pillay",
+  "d": [
+   "Anne Carson",
+   "Malala Yousafzai",
+   "António Guterres"
+  ],
+  "exp": "The Norwegian Nobel Committee named Navi Pillay for her efforts to promote peace and international law. UN News independently reported the announcement.",
+  "src": "Nobel Committee and UN News, 9 October 2026; rechecked 10 October 2026",
+  "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/"
+ },
+ {
+  "id": "Q054",
+  "cat": "CA",
+  "topic": "India: training",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "Which city was named for the second Sadhana Shrinkhla regional workshop scheduled for 9 October 2026?",
+  "ans": "Guwahati",
+  "d": [
+   "Vijayawada",
+   "Jaipur",
+   "Lucknow"
+  ],
+  "exp": "The PIB announcement of 7 October places the second regional workshop at Guwahati in Assam. The question asks the named location, not whether the event has finished.",
+  "src": "PIB, 7 October 2026; rechecked 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?lang=1&PRID=2319951&reg=3"
+ },
+ {
+  "id": "Q055",
+  "cat": "CA",
+  "topic": "India: technology",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "Which city hosts the third International Bharat 6G Symposium, according to PIB on 8 October?",
+  "ans": "New Delhi",
+  "d": [
+   "Chennai",
+   "Hyderabad",
+   "Pune"
+  ],
+  "exp": "The dated telecom release places the symposium at Yashobhoomi in Dwarka, New Delhi, from 7 to 9 October.",
+  "src": "PIB, 8 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321066&lang=1&reg=48"
+ },
+ {
+  "id": "Q056",
+  "cat": "CA",
+  "topic": "India: health education",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "The National Medical Library conference reported by PIB on 9 October focused on access to which resources?",
+  "ans": "Digital health resources",
+  "d": [
+   "Marine navigation charts",
+   "Agricultural seed banks",
+   "Railway ticket systems"
+  ],
+  "exp": "The conference theme was Digital Health Resources: Redefining Access Through Libraries. It focused on medical knowledge and digital resources.",
+  "src": "PIB, 9 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321201&lang=2&reg=48"
+ },
+ {
+  "id": "Q057",
+  "cat": "CA",
+  "topic": "India: wildlife",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "The Great Indian Bustard release reported by PIB on 4 October took place in Desert National Park in which state?",
+  "ans": "Rajasthan",
+  "d": [
+   "West Bengal",
+   "Maharashtra",
+   "Kerala"
+  ],
+  "exp": "The owning wildlife release places the release of two male Great Indian Bustards at Sam, Desert National Park, Jaisalmer, Rajasthan.",
+  "src": "PIB, 4 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2318842&lang=1&reg=3"
+ },
+ {
+  "id": "Q058",
+  "cat": "GK",
+  "topic": "Mathematics",
+  "asof": "static",
+  "mutable": false,
+  "q": "How many sides does a triangle have?",
+  "ans": "Three",
+  "d": [
+   "Four",
+   "Five",
+   "Six"
+  ],
+  "exp": "A triangle is a polygon formed by three line segments.",
+  "src": "Britannica, checked 9 October 2026",
+  "url": "https://www.britannica.com/science/triangle-mathematics"
+ },
+ {
+  "id": "Q059",
+  "cat": "GK",
+  "topic": "Biology",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which organs take oxygen from inhaled air into the blood?",
+  "ans": "Lungs",
+  "d": [
+   "Kidneys",
+   "Stomach",
+   "Liver"
+  ],
+  "exp": "The lungs exchange gases: oxygen enters the blood and carbon dioxide leaves it.",
+  "src": "Britannica, checked 9 October 2026",
+  "url": "https://www.britannica.com/science/lung"
+ },
+ {
+  "id": "Q060",
+  "cat": "CA",
+  "topic": "India: public health",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "Which toll-free number for Tele-MANAS mental health support was highlighted by PIB on 9 October 2026?",
+  "ans": "14416",
+  "d": [
+   "139",
+   "1930",
+   "1075"
+  ],
+  "exp": "The dated health ministry release identifies 14416 as the Tele-MANAS national toll-free helpline for confidential mental health support.",
+  "src": "PIB, 9 October 2026; rechecked 11 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321522&lang=1&reg=1"
+ },
+ {
+  "id": "Q061",
+  "cat": "CA",
+  "topic": "World: postal services",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "On which date was World Post Day observed in 2026, according to the PIB report of 9 October?",
+  "ans": "9 October",
+  "d": [
+   "5 October",
+   "10 October",
+   "24 October"
+  ],
+  "exp": "World Post Day is observed on 9 October. The PIB report connects it with the founding of the Universal Postal Union in 1874.",
+  "src": "PIB, 9 October 2026; rechecked 11 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321604&lang=1&reg=1"
+ },
+ {
+  "id": "Q062",
+  "cat": "CA",
+  "topic": "India: weather",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "Which organisation conducted the cyclone warning and marine weather services workshop reported by PIB on 9 October?",
+  "ans": "India Meteorological Department",
+  "d": [
+   "Indian Space Research Organisation",
+   "Reserve Bank of India",
+   "Archaeological Survey of India"
+  ],
+  "exp": "PIB names the India Meteorological Department as the workshop organiser. The training covered cyclone warnings and marine weather services.",
+  "src": "PIB, 9 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321513&lang=1&reg=1"
+ },
+ {
+  "id": "Q063",
+  "cat": "CA",
+  "topic": "World: technology",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "Which international organisation jointly organised the AI for Good Lab workshop with India's Department of Telecommunications on 9 October 2026?",
+  "ans": "International Telecommunication Union",
+  "d": [
+   "World Health Organization",
+   "International Olympic Committee",
+   "International Monetary Fund"
+  ],
+  "exp": "The dated telecom release names the International Telecommunication Union, or ITU, as the joint organiser with the Department of Telecommunications.",
+  "src": "PIB, 9 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321480&lang=1&reg=48"
+ },
+ {
+  "id": "Q064",
+  "cat": "CA",
+  "topic": "India: international relations",
+  "asof": "2026-10-09",
+  "mutable": false,
+  "q": "The PIB announcement of 9 October placed the Finance Minister's official visit from 9 to 11 October 2026 in which country?",
+  "ans": "Singapore",
+  "d": [
+   "Japan",
+   "France",
+   "Australia"
+  ],
+  "exp": "The announcement places the official visit in Singapore. It lists meetings on investment and the India-Singapore partnership; the question asks the announced destination.",
+  "src": "PIB, 9 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321121&lang=1&reg=1"
+ },
+ {
+  "id": "Q065",
+  "cat": "GK",
+  "topic": "Mathematics",
+  "asof": "static",
+  "mutable": false,
+  "q": "How many square faces does a cube have?",
+  "ans": "Six",
+  "d": [
+   "Four",
+   "Eight",
+   "Twelve"
+  ],
+  "exp": "A cube has six square faces. Its eight corners and twelve edges are different counts.",
+  "src": "Britannica, checked 10 October 2026",
+  "url": "https://www.britannica.com/science/cube-mathematics"
+ },
+ {
+  "id": "Q066",
+  "cat": "GK",
+  "topic": "Astronomy",
+  "asof": "static",
+  "mutable": false,
+  "q": "About how long does Earth take to complete one orbit around the Sun?",
+  "ans": "One year",
+  "d": [
+   "One day",
+   "One week",
+   "One month"
+  ],
+  "exp": "NASA gives about 365.25 days for one trip around the Sun. That is about one year; one day is the time for Earth's rotation.",
+  "src": "NASA, checked 10 October 2026",
+  "url": "https://science.nasa.gov/earth/facts/"
+ },
+ {
+  "id": "Q067",
+  "cat": "CA",
+  "topic": "India: agriculture",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "According to the PIB factsheet of 10 October 2026, PM Dhan-Dhaanya Krishi Yojana focuses on how many agricultural districts?",
+  "ans": "100",
+  "d": [
+   "50",
+   "200",
+   "500"
+  ],
+  "exp": "The dated factsheet describes focused agricultural development across 100 Aspirational Agricultural Districts.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/FactsheetDetails.aspx?ModuleId=16&NoteId=151112&id=151112&lang=1&reg=3"
+ },
+ {
+  "id": "Q068",
+  "cat": "CA",
+  "topic": "India: heritage",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "The PIB lighthouse feature of 10 October places the National Maritime Heritage Complex at Lothal in which state?",
+  "ans": "Gujarat",
+  "d": [
+   "Kerala",
+   "Tamil Nadu",
+   "West Bengal"
+  ],
+  "exp": "The feature locates Lothal and the planned National Maritime Heritage Complex in Gujarat. It describes a lighthouse museum as part of the complex.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/FeaturesDeatils.aspx?ModuleId=2&NoteId=160404&id=160404&lang=1&reg=1"
+ },
+ {
+  "id": "Q069",
+  "cat": "CA",
+  "topic": "World: cooperation",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "The PIB announcement of 10 October scheduled the Defence Secretary's 12-15 October visit to which pair of countries?",
+  "ans": "Cyprus and Greece",
+  "d": [
+   "Japan and South Korea",
+   "France and Germany",
+   "Australia and New Zealand"
+  ],
+  "exp": "The announcement names Cyprus and Greece. The question asks the announced destinations, not whether the visit has happened.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321726&lang=2&reg=48"
+ },
+ {
+  "id": "Q070",
+  "cat": "CA",
+  "topic": "India: science",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "The PIB announcement of 10 October places the Sudha Gopalakrishnan Brain Centre at which institute?",
+  "ans": "IIT Madras",
+  "d": [
+   "IIT Delhi",
+   "IIT Bombay",
+   "IIT Kanpur"
+  ],
+  "exp": "PIB identifies the brain research centre as being at IIT Madras. The announced programme includes mapping human brains into detailed atlases.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321671&lang=1&reg=3"
+ },
+ {
+  "id": "Q071",
+  "cat": "CA",
+  "topic": "India: international exercise",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "At which city's Air Force Station did the Defence Minister address Tarang Shakti participants on 10 October 2026?",
+  "ans": "Jodhpur",
+  "d": [
+   "Pune",
+   "Kochi",
+   "Guwahati"
+  ],
+  "exp": "The dated release places the address at Air Force Station Jodhpur during the multinational air exercise.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321694&lang=2&reg=48"
+ },
+ {
+  "id": "Q072",
+  "cat": "GK",
+  "topic": "Biology",
+  "asof": "static",
+  "mutable": false,
+  "q": "Which organ pumps blood around the human body?",
+  "ans": "Heart",
+  "d": [
+   "Lungs",
+   "Liver",
+   "Stomach"
+  ],
+  "exp": "The heart acts as the muscular pump of the circulatory system, moving blood through the body.",
+  "src": "Britannica, checked 11 October 2026",
+  "url": "https://www.britannica.com/science/heart"
+ },
+ {
+  "id": "Q073",
+  "cat": "GK",
+  "topic": "Physics",
+  "asof": "static",
+  "mutable": false,
+  "q": "What happens when the north poles of two magnets are brought close together?",
+  "ans": "They repel each other",
+  "d": [
+   "They attract each other",
+   "They lose all magnetism",
+   "They become south poles"
+  ],
+  "exp": "Like magnetic poles repel. Unlike poles, such as north and south, attract.",
+  "src": "Britannica, checked 11 October 2026",
+  "url": "https://www.britannica.com/science/magnetism"
+ },
+ {
+  "id": "Q074",
+  "cat": "CA",
+  "topic": "India: science",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "The PIB announcement of 10 October places the Prime Minister's 11 October programme, including the IIT Madras Brain Centre, in which city?",
+  "ans": "Chennai",
+  "d": [
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "exp": "The dated announcement places the programme in Chennai, Tamil Nadu. It is an announced programme, not a claim that all events have finished.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321671&lang=1&reg=3"
+ },
+ {
+  "id": "Q075",
+  "cat": "CA",
+  "topic": "India: international cooperation",
+  "asof": "2026-10-10",
+  "mutable": false,
+  "q": "Which Indian armed service hosts the multinational air exercise Tarang Shakti, described by PIB on 10 October 2026?",
+  "ans": "Indian Air Force",
+  "d": [
+   "Indian Navy",
+   "Indian Army",
+   "Indian Coast Guard"
+  ],
+  "exp": "Tarang Shakti is a multinational air exercise hosted by the Indian Air Force. Air exercise is the clue linking the event to the service.",
+  "src": "PIB, 10 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2321694&lang=2&reg=48"
+ },
+ {
+  "id": "Q076",
+  "cat": "GK",
+  "topic": "History",
+  "asof": "2026-10-11",
+  "mutable": false,
+  "q": "After which conquest did Emperor Ashoka renounce armed conquest and favour rule through dharma?",
+  "ans": "Kalinga",
+  "d": [
+   "Plassey",
+   "Panipat",
+   "Buxar"
+  ],
+  "exp": "The suffering caused by the Kalinga conquest led Ashoka to renounce armed conquest. The other battles belong to much later periods.",
+  "src": "Britannica, checked 11 October 2026",
+  "url": "https://www.britannica.com/biography/Ashoka"
+ },
+ {
+  "id": "Q077",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "2026-10-11",
+  "mutable": true,
+  "q": "Which Indian state is the largest by area?",
+  "ans": "Rajasthan",
+  "d": [
+   "Maharashtra",
+   "Uttar Pradesh",
+   "Madhya Pradesh"
+  ],
+  "exp": "The Rajasthan government identifies Rajasthan as the largest Indian state by area. Area and population are different measures.",
+  "src": "Rajasthan government, checked 11 October 2026",
+  "url": "https://rising.rajasthan.gov.in/rajasthan-factfile"
+ },
+ {
+  "id": "Q078",
+  "cat": "GK",
+  "topic": "Science: instruments",
+  "asof": "2026-10-11",
+  "mutable": false,
+  "q": "Which instrument measures the relative density of a liquid?",
+  "ans": "Hydrometer",
+  "d": [
+   "Thermometer",
+   "Barometer",
+   "Anemometer"
+  ],
+  "exp": "A hydrometer measures relative density. Thermometers measure temperature, barometers pressure, and anemometers wind speed.",
+  "src": "Britannica, checked 11 October 2026",
+  "url": "https://www.britannica.com/science/hydrometer"
+ },
+ {
+  "id": "Q079",
+  "cat": "CA",
+  "topic": "World: economy",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Who were named as the two 2026 Economic Sciences laureates in the official announcement on 12 October?",
+  "ans": "Robert E. Hall and Michael Woodford",
+  "d": [
+   "Henri B. Kagan and Kenso Soai",
+   "Paul Krugman and Joseph Stiglitz",
+   "Kenneth J. Arrow and Paul A. Samuelson"
+  ],
+  "exp": "The Royal Swedish Academy of Sciences named Robert E. Hall and Michael Woodford for work improving stabilisation policy. This asks the laureate pair, not the technical theory.",
+  "src": "NobelPrize.org, 12 October 2026",
+  "url": "https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/"
+ },
+ {
+  "id": "Q080",
+  "cat": "CA",
+  "topic": "India: institutions",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Which Indian body announced its 33rd Foundation Day function for 12 October 2026?",
+  "ans": "National Human Rights Commission",
+  "d": [
+   "Election Commission of India",
+   "Reserve Bank of India",
+   "Indian Space Research Organisation"
+  ],
+  "exp": "The dated PIB announcement identifies the National Human Rights Commission, India, whose Foundation Day function was planned for 12 October. NHRC works to protect and promote human rights.",
+  "src": "PIB, 9 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2321285&lang=1&reg=1"
+ },
+ {
+  "id": "Q081",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Which imaginary line divides Earth into the Northern and Southern hemispheres?",
+  "ans": "Equator",
+  "d": [
+   "Prime Meridian",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "exp": "The Equator is the line at zero degrees latitude. It divides Earth into Northern and Southern hemispheres.",
+  "src": "Britannica, checked 12 October 2026",
+  "url": "https://www.britannica.com/place/Equator"
+ },
+ {
+  "id": "Q082",
+  "cat": "GK",
+  "topic": "Science",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Which pigment in green plants absorbs light energy for photosynthesis?",
+  "ans": "Chlorophyll",
+  "d": [
+   "Haemoglobin",
+   "Melanin",
+   "Insulin"
+  ],
+  "exp": "Chlorophyll absorbs light energy used in photosynthesis. It is found in the chloroplasts of green plants.",
+  "src": "Britannica, checked 12 October 2026",
+  "url": "https://www.britannica.com/science/chlorophyll"
+ },
+ {
+  "id": "Q083",
+  "cat": "GK",
+  "topic": "History",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Emperor Ashoka belonged to which ancient Indian dynasty?",
+  "ans": "Maurya",
+  "d": [
+   "Gupta",
+   "Chola",
+   "Mughal"
+  ],
+  "exp": "Ashoka ruled the Mauryan empire. His rock and pillar edicts give evidence about his reign and policies.",
+  "src": "Britannica, checked 12 October 2026",
+  "url": "https://www.britannica.com/summary/Ashoka"
+ },
+ {
+  "id": "Q084",
+  "cat": "GK",
+  "topic": "Civics",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Which House of India's Parliament is called the House of the People?",
+  "ans": "Lok Sabha",
+  "d": [
+   "Rajya Sabha",
+   "Legislative Council",
+   "Supreme Court"
+  ],
+  "exp": "Lok Sabha means House of the People. Rajya Sabha is the Council of States. Parliament includes the President and both Houses.",
+  "src": "Digital Sansad, checked 12 October 2026",
+  "url": "https://sansad.in/ls/about/introduction"
+ },
+ {
+  "id": "Q085",
+  "cat": "GK",
+  "topic": "Economy",
+  "asof": "2026-10-12",
+  "mutable": false,
+  "q": "Which institution issues India's Rs500 banknotes?",
+  "ans": "Reserve Bank of India",
+  "d": [
+   "State Bank of India",
+   "Election Commission of India",
+   "Securities and Exchange Board of India"
+  ],
+  "exp": "The Reserve Bank of India issues banknotes such as Rs500. Do not confuse banknotes with coins or the special Rs1 note, which are issued by the Government of India.",
+  "src": "RBI, checked 12 October 2026",
+  "url": "https://rbi.org.in/scripts/FS_Overview.aspx?fn=2753"
+ },
+ {
+  "id": "Q086",
+  "cat": "CA",
+  "topic": "World: health",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "What is the focus of WHO's World Mental Health Day 2026 theme, \"Lived experiences heard: real voices, real change\"?",
+  "ans": "Lived experience shaping care",
+  "d": [
+   "More reliance on hospital care",
+   "Specialists alone shaping care",
+   "New equipment guiding all care"
+  ],
+  "exp": "WHO calls for people with lived experience to help shape policies, services and decisions about mental health care.",
+  "url": "https://www.who.int/campaigns/world-mental-health-day/2026",
+  "src": "WHO, World Mental Health Day 2026"
+ },
+ {
+  "id": "Q087",
+  "cat": "CA",
+  "topic": "India: environment",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "In which city were electric buses flagged off and new air-quality monitoring stations inaugurated on 13 October 2026?",
+  "ans": "Delhi",
+  "d": [
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "exp": "PIB reported the bus flag-off at Anand Vihar and the inauguration of air-quality monitoring stations across Delhi on 13 October.",
+  "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2322719&lang=2&reg=48",
+  "src": "PIB, 13 October 2026"
+ },
+ {
+  "id": "Q088",
+  "cat": "GK",
+  "topic": "Science and environment",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "The stratospheric ozone layer protects life mainly by absorbing which radiation from the Sun?",
+  "ans": "Ultraviolet",
+  "d": [
+   "Infrared",
+   "Radio waves",
+   "Microwaves"
+  ],
+  "exp": "Stratospheric ozone absorbs harmful ultraviolet radiation. It does not block all sunlight.",
+  "url": "https://www.britannica.com/science/ozone-layer",
+  "src": "Britannica, checked 13 October 2026"
+ },
+ {
+  "id": "Q089",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "The Ganges-Brahmaputra delta opens into which body of water?",
+  "ans": "Bay of Bengal",
+  "d": [
+   "Arabian Sea",
+   "Gulf of Kachchh",
+   "Gulf of Mannar"
+  ],
+  "exp": "The Ganges and Brahmaputra reach the Bay of Bengal through their delta. The Arabian Sea lies on the other side of India.",
+  "url": "https://www.britannica.com/place/Ganges-River",
+  "src": "Britannica, checked 13 October 2026"
+ },
+ {
+  "id": "Q090",
+  "cat": "GK",
+  "topic": "History and culture",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "Which feature is strongly associated with the cities of the Indus civilization?",
+  "ans": "Brick drains and baths",
+  "d": [
+   "Rock-cut prayer halls",
+   "Marble imperial tombs",
+   "Gothic church spires"
+  ],
+  "exp": "Indus cities such as Mohenjo-daro had brick-built bathrooms and drainage. The other features belong to much later traditions.",
+  "url": "https://www.britannica.com/place/India/The-Indus-civilization",
+  "src": "Britannica, checked 13 October 2026"
+ },
+ {
+  "id": "Q091",
+  "cat": "GK",
+  "topic": "Civics",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "Under Article 51A, protecting the natural environment and showing compassion for living creatures is a:",
+  "ans": "Fundamental Duty",
+  "d": [
+   "Fundamental Right",
+   "Directive Principle",
+   "Emergency Power"
+  ],
+  "exp": "Article 51A(g) lists this among the Fundamental Duties of citizens. Duties, rights and Directive Principles are separate constitutional categories.",
+  "url": "https://cdnbbsr.s3waas.gov.in/s35b3b68ffd8758e8114d7df1efa4ac376/uploads/2025/07/202507252048725343.pdf",
+  "src": "Constitution of India, Article 51A"
+ },
+ {
+  "id": "Q092",
+  "cat": "GK",
+  "topic": "Science: instruments",
+  "asof": "2026-10-13",
+  "mutable": false,
+  "q": "Which instrument would you use to check whether a liquid has become hotter?",
+  "ans": "Thermometer",
+  "d": [
+   "Hydrometer",
+   "Barometer",
+   "Anemometer"
+  ],
+  "exp": "A thermometer measures temperature. A hydrometer measures relative density, a barometer pressure and an anemometer wind speed.",
+  "url": "https://www.britannica.com/technology/thermometer",
+  "src": "Britannica, checked 13 October 2026"
+ },
+ {
+  "id": "Q093",
+  "cat": "CA",
+  "topic": "World: disaster preparedness",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "The 2026 International Day for Disaster Risk Reduction theme, \"Resilience Starts at Home\", places which setting at the centre of preparedness?",
+  "ans": "Homes and households",
+  "d": [
+   "Airports and airlines",
+   "Ports and shipping routes",
+   "Stadiums and sports clubs"
+  ],
+  "exp": "UNDRR selected Resilience Starts at Home for the day observed on 13 October 2026. It focuses on safer housing and household preparedness.",
+  "url": "https://iddrr.undrr.org/",
+  "src": "UNDRR, 13 October 2026"
+ },
+ {
+  "id": "Q094",
+  "cat": "CA",
+  "topic": "World: food",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "Which UN agency is organising the World Food Day global ceremony scheduled for 16 October 2026 under \"Innovate today. Nourish tomorrow.\"?",
+  "ans": "FAO",
+  "d": [
+   "WHO",
+   "UNESCO",
+   "ILO"
+  ],
+  "exp": "FAO announced the ceremony at its headquarters for 16 October 2026. FAO is the Food and Agriculture Organization; the ceremony was still upcoming when this test was prepared.",
+  "url": "https://www.fao.org/webcast/detail/world-food-day-ceremony/en",
+  "src": "FAO, World Food Day 2026"
+ },
+ {
+  "id": "Q095",
+  "cat": "GK",
+  "topic": "Science",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "Why would a ringing bell inside a container become harder to hear as the air is removed?",
+  "ans": "Sound needs a material medium",
+  "d": [
+   "Sound needs a magnetic field",
+   "Sound travels only through light",
+   "Sound cannot pass through air"
+  ],
+  "exp": "Sound is a mechanical vibration carried by matter. With less air to carry it, less sound reaches a listener; sound cannot travel through a vacuum.",
+  "url": "https://www.britannica.com/science/How-Does-Sound-Travel",
+  "src": "Britannica, checked 14 October 2026"
+ },
+ {
+  "id": "Q096",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "Which pair of seas is connected by the Suez Canal?",
+  "ans": "Mediterranean Sea and Red Sea",
+  "d": [
+   "Black Sea and Caspian Sea",
+   "Arabian Sea and Bay of Bengal",
+   "North Sea and Baltic Sea"
+  ],
+  "exp": "The Suez Canal runs through Egypt and connects the Mediterranean Sea with the Red Sea.",
+  "url": "https://www.britannica.com/topic/Suez-Canal",
+  "src": "Britannica, checked 14 October 2026"
+ },
+ {
+  "id": "Q097",
+  "cat": "GK",
+  "topic": "History and culture",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "The rock-cut temples and monasteries at Ajanta are primarily associated with which religion?",
+  "ans": "Buddhism",
+  "d": [
+   "Jainism",
+   "Hinduism",
+   "Sikhism"
+  ],
+  "exp": "Ajanta is a group of Buddhist cave temples and monasteries in Maharashtra, celebrated for its paintings. Do not confuse it with the mixed religious traditions at Ellora.",
+  "url": "https://www.britannica.com/place/Ajanta-Caves",
+  "src": "Britannica, checked 14 October 2026"
+ },
+ {
+  "id": "Q098",
+  "cat": "GK",
+  "topic": "Civics",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "Article 324 gives the superintendence, direction and control of parliamentary elections to which body?",
+  "ans": "Election Commission",
+  "d": [
+   "Union Public Service Commission",
+   "Finance Commission",
+   "Comptroller and Auditor General"
+  ],
+  "exp": "Article 324 vests these election responsibilities in the Election Commission. The other institutions have different constitutional functions.",
+  "url": "https://indiacode.ecourtsindia.com/constitution-of-india/article/324/",
+  "src": "Constitution of India, Article 324"
+ },
+ {
+  "id": "Q099",
+  "cat": "GK",
+  "topic": "Economy",
+  "asof": "2026-10-14",
+  "mutable": false,
+  "q": "If prices rise while a person's money income stays unchanged, what usually happens to that income's purchasing power?",
+  "ans": "It falls",
+  "d": [
+   "It rises",
+   "It stays unchanged",
+   "It doubles"
+  ],
+  "exp": "The unchanged income buys fewer goods and services when prices rise. Inflation therefore reduces its purchasing power.",
+  "url": "https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/inflation",
+  "src": "IMF, Inflation"
+ },
+ {
+  "id": "Q100",
+  "cat": "CA",
+  "topic": "India: infrastructure",
+  "q": "PIB's 14 October announcement places a new Leh airport passenger terminal in which part of India?",
+  "ans": "Ladakh",
+  "d": [
+   "Sikkim",
+   "Assam",
+   "Kerala"
+  ],
+  "exp": "PIB announced the Leh terminal as part of development projects in Ladakh scheduled for 15 October. This question uses the announcement, not a claim that the inauguration had already finished.",
+  "src": "PIB, 14 October 2026",
+  "url": "https://www.pib.gov.in/PressReleasepage.aspx?PRID=2323218&lang=1&reg=48",
+  "asof": "2026-10-15",
+  "mutable": false
+ },
+ {
+  "id": "Q101",
+  "cat": "CA",
+  "topic": "World: observances",
+  "q": "On which date was the UN International Day of the Girl Child observed in October 2026?",
+  "ans": "11 October",
+  "d": [
+   "5 October",
+   "16 October",
+   "24 October"
+  ],
+  "exp": "The UN marks International Day of the Girl Child on 11 October. The 2026 observance called for investment in girls' rights.",
+  "src": "United Nations, Girl Child Day 2026",
+  "url": "https://www.un.org/en/observances/girl-child-day",
+  "asof": "2026-10-15",
+  "mutable": false
+ },
+ {
+  "id": "Q102",
+  "cat": "GK",
+  "topic": "Science",
+  "q": "Which organs filter wastes and extra water from the blood to form urine?",
+  "ans": "Kidneys",
+  "d": [
+   "Lungs",
+   "Intestines",
+   "Pancreas"
+  ],
+  "exp": "The kidneys filter blood and remove wastes and extra water as urine. The bladder stores urine after it has been made.",
+  "src": "NIDDK, kidneys and their function",
+  "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+  "asof": "2026-10-15",
+  "mutable": false
+ },
+ {
+  "id": "Q103",
+  "cat": "GK",
+  "topic": "Geography",
+  "q": "The Palk Strait lies between India and which neighbouring country?",
+  "ans": "Sri Lanka",
+  "d": [
+   "Maldives",
+   "Bangladesh",
+   "Myanmar"
+  ],
+  "exp": "The Palk Strait separates southeastern India from northern Sri Lanka.",
+  "src": "Britannica, Palk Strait",
+  "url": "https://www.britannica.com/place/Palk-Strait",
+  "asof": "2026-10-15",
+  "mutable": false
+ },
+ {
+  "id": "Q104",
+  "cat": "GK",
+  "topic": "History and culture",
+  "q": "Which battle in 1757 brought Robert Clive's East India Company forces into conflict with Siraj al-Dawlah of Bengal?",
+  "ans": "Battle of Plassey",
+  "d": [
+   "Battle of Buxar",
+   "Battle of Haldighati",
+   "First Battle of Panipat"
+  ],
+  "exp": "The Battle of Plassey was fought on 23 June 1757. Clive led the East India Company forces against the forces of Siraj al-Dawlah.",
+  "src": "Britannica, Battle of Plassey",
+  "url": "https://www.britannica.com/event/Battle-of-Plassey",
+  "asof": "2026-10-15",
+  "mutable": false
+ },
+ {
+  "id": "Q105",
+  "cat": "GK",
+  "topic": "Civics",
+  "q": "What is the minimum age an otherwise eligible Indian citizen must have reached on the qualifying date to register as a voter?",
+  "ans": "18 years",
+  "d": [
+   "16 years",
+   "21 years",
+   "25 years"
+  ],
+  "exp": "The Election Commission states that a citizen must have attained 18 years on the qualifying date. Citizenship, ordinary residence and other eligibility requirements also apply.",
+  "src": "Election Commission, voter registration",
+  "url": "https://www.eci.gov.in/faq/en/how-to-register/",
+  "asof": "2026-10-15",
+  "mutable": true
+ },
+ {
+  "id": "Q106",
+  "cat": "GK",
+  "topic": "Everyday economy",
+  "q": "Which currency would normally be used to pay in a shop in Japan?",
+  "ans": "Yen",
+  "d": [
+   "Yuan",
+   "Won",
+   "Baht"
+  ],
+  "exp": "Japan's currency is the yen. The Bank of Japan lists its notes and coins in yen.",
+  "src": "Bank of Japan, notes and coins",
+  "url": "https://www.boj.or.jp/en/note_tfjgs/note/valid/index.htm",
+  "asof": "2026-10-15",
+  "mutable": true
+ },
+ {
+  "id": "Q107",
+  "cat": "CA",
+  "topic": "India: public life",
+  "q": "Whose birth anniversary did President Droupadi Murmu mark with floral tributes on 15 October 2026?",
+  "ans": "A. P. J. Abdul Kalam",
+  "d": [
+   "Sarvepalli Radhakrishnan",
+   "Rajendra Prasad",
+   "Varahagiri Venkata Giri"
+  ],
+  "exp": "The President's official photo record identifies the tribute at Vijayawada on 15 October 2026 as one to former President A. P. J. Abdul Kalam.",
+  "src": "President's Secretariat, 15 October 2026",
+  "url": "https://dpl.rashtrapatibhavan.gov.in/view_datails/Mjk5NDI=",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q108",
+  "cat": "CA",
+  "topic": "World: observances",
+  "q": "On which date did the UN mark the International Day of Rural Women in 2026?",
+  "ans": "15 October",
+  "d": [
+   "5 October",
+   "11 October",
+   "24 October"
+  ],
+  "exp": "UN Women's statement of 13 October identifies the International Day of Rural Women as 15 October 2026. It recognises rural women's contributions to farming, communities and nature.",
+  "src": "UN Women, 13 October 2026",
+  "url": "https://www.unwomen.org/en/news-stories/statement/2026/10/un-women-statement-for-the-international-day-of-rural-women-15-october-2026",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q109",
+  "cat": "GK",
+  "topic": "Science",
+  "q": "At standard sea-level atmospheric pressure, what is the approximate boiling point of pure water?",
+  "ans": "100 degrees Celsius",
+  "d": [
+   "50 degrees Celsius",
+   "75 degrees Celsius",
+   "125 degrees Celsius"
+  ],
+  "exp": "Water boils at about 100 degrees Celsius at standard sea-level pressure. Its boiling point is lower at higher altitudes because the pressure is lower.",
+  "src": "Britannica, boiling point",
+  "url": "https://www.britannica.com/science/boiling-point",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q110",
+  "cat": "GK",
+  "topic": "Geography",
+  "q": "The Prime Meridian is the reference line for which value?",
+  "ans": "0 degrees longitude",
+  "d": [
+   "0 degrees latitude",
+   "90 degrees latitude",
+   "180 degrees longitude"
+  ],
+  "exp": "A prime meridian is chosen as zero degrees longitude. Zero degrees latitude is the Equator. The historic Greenwich line and modern satellite reference meridian are slightly apart.",
+  "src": "Royal Museums Greenwich, Prime Meridian",
+  "url": "https://www.rmg.co.uk/stories/time/what-prime-meridian-why-it-greenwich",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q111",
+  "cat": "GK",
+  "topic": "History and culture",
+  "q": "The 1930 Dandi March challenged British laws controlling which everyday product?",
+  "ans": "Salt",
+  "d": [
+   "Cotton",
+   "Tea",
+   "Sugar"
+  ],
+  "exp": "Gandhi and his followers went to Dandi and broke the British salt law by collecting salt. The march was part of civil disobedience against colonial rule.",
+  "src": "Britannica, Salt March",
+  "url": "https://www.britannica.com/event/Salt-March",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q112",
+  "cat": "GK",
+  "topic": "Civics",
+  "q": "Which institution is at the top of India's judicial system?",
+  "ans": "Supreme Court",
+  "d": [
+   "High Court",
+   "District Court",
+   "Sessions Court"
+  ],
+  "exp": "The Supreme Court of India is the apex judicial body under the Constitution. High Courts and district-level courts are below it in the judicial system.",
+  "src": "Supreme Court of India, history",
+  "url": "https://www.sci.gov.in/about-department/history/",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q113",
+  "cat": "GK",
+  "topic": "Sports",
+  "q": "Which sport uses a shuttlecock rather than a ball during play?",
+  "ans": "Badminton",
+  "d": [
+   "Table tennis",
+   "Squash",
+   "Lawn tennis"
+  ],
+  "exp": "Badminton players hit a shuttlecock across a net with lightweight rackets. The other listed sports use balls.",
+  "src": "Britannica, badminton",
+  "url": "https://www.britannica.com/sports/badminton",
+  "asof": "2026-10-16",
+  "mutable": false
+ },
+ {
+  "id": "Q114",
+  "cat": "CA",
+  "topic": "World: poverty",
+  "q": "The UN message for 17 October 2026 linked \"Safe Homes for All\" to which international day?",
+  "ans": "International Day for the Eradication of Poverty",
+  "d": [
+   "International Day of Persons with Disabilities",
+   "International Day for Biological Diversity",
+   "International Day for Disaster Risk Reduction"
+  ],
+  "exp": "The Secretary-General message dated 16 October names 17 October 2026 as the International Day for the Eradication of Poverty. Its theme links safe, affordable homes with reducing poverty.",
+  "src": "UN Secretary-General, 16 October 2026",
+  "url": "https://unis.unvienna.org/unis/en/pressrels/2026/unissgsm1629.html",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q115",
+  "cat": "CA",
+  "topic": "India: environment",
+  "q": "Which organisation launched the nationwide Green Diwali Campaign on 20 October 2026?",
+  "ans": "WWF-India EIACP",
+  "d": [
+   "Greenpeace India",
+   "Centre for Science and Environment",
+   "The Energy and Resources Institute"
+  ],
+  "exp": "PIB on 20 October 2026 names WWF-India EIACP as the campaign organiser. Its Programme Centre is supported by the Ministry of Environment, Forest and Climate Change. The campaign urges a cracker-free Diwali.",
+  "src": "PIB, 20 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?lang=1&PRID=2325381&reg=3",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q116",
+  "cat": "GK",
+  "topic": "Science and environment",
+  "q": "Which tiny openings in leaves allow gases to move between the leaf and the air?",
+  "ans": "Stomata",
+  "d": [
+   "Root hairs",
+   "Leaf veins",
+   "Chloroplasts"
+  ],
+  "exp": "Stomata are pores in the leaf surface. They allow gas exchange and are opened or closed by guard cells.",
+  "src": "Britannica, stomate",
+  "url": "https://www.britannica.com/science/stomate",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q117",
+  "cat": "GK",
+  "topic": "Geography",
+  "q": "A map marks a latitude about 23.5 degrees north. Which named line is it?",
+  "ans": "Tropic of Cancer",
+  "d": [
+   "Tropic of Capricorn",
+   "Arctic Circle",
+   "Antarctic Circle"
+  ],
+  "exp": "The Tropic of Cancer is about 23.5 degrees north of the Equator. The Tropic of Capricorn is at the corresponding southern latitude.",
+  "src": "Britannica, Tropic of Cancer",
+  "url": "https://www.britannica.com/place/Tropic-of-Cancer",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q118",
+  "cat": "GK",
+  "topic": "History and culture",
+  "q": "Emperor Akbar belonged to which ruling dynasty?",
+  "ans": "Mughal",
+  "d": [
+   "Maurya",
+   "Gupta",
+   "Chola"
+  ],
+  "exp": "Akbar was a Mughal emperor. The Maurya and Gupta dynasties ruled much earlier, while the Cholas were a southern dynasty.",
+  "src": "Britannica, Akbar",
+  "url": "https://www.britannica.com/biography/Akbar",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q119",
+  "cat": "GK",
+  "topic": "Civics",
+  "q": "Under Article 32, a person can move the Supreme Court directly to enforce which of these?",
+  "ans": "Fundamental Rights",
+  "d": [
+   "Directive Principles",
+   "Fundamental Duties",
+   "Parliamentary privileges"
+  ],
+  "exp": "Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights. The Court can issue appropriate directions, orders or writs.",
+  "src": "Supreme Court, jurisdiction",
+  "url": "https://www.sci.gov.in/jurisdiction/",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q120",
+  "cat": "GK",
+  "topic": "Science: electricity",
+  "q": "What is the purpose of the thin wire inside an electrical fuse?",
+  "ans": "To melt and break the circuit if current is excessive",
+  "d": [
+   "To store charge and release it when current stops",
+   "To increase voltage when a circuit is overloaded",
+   "To keep current flowing when a wire is damaged"
+  ],
+  "exp": "A fuse uses a metal strip or wire that melts when current exceeds its intended level. The break interrupts the circuit and helps protect it.",
+  "src": "Britannica, fuse",
+  "url": "https://www.britannica.com/technology/fuse-electronic-device",
+  "asof": "2026-10-20",
+  "mutable": false
+ },
+ {
+  "id": "Q121",
+  "cat": "CA",
+  "topic": "India: heritage",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "Sirpur, an ancient site in the news for joining UNESCO's tentative World Heritage list, is in which Indian state?",
+  "ans": "Chhattisgarh",
+  "d": [
+   "Odisha",
+   "Rajasthan",
+   "Bihar"
+  ],
+  "exp": "UNESCO's tentative list carries the Sirpur Cultural and Archaeological Landscape in Chhattisgarh, on the Mahanadi river. Its addition was reported on 20 October 2026.",
+  "src": "UNESCO tentative list, reported 20 October 2026",
+  "url": "https://whc.unesco.org/en/tentativelists/7054/"
+ },
+ {
+  "id": "Q122",
+  "cat": "CA",
+  "topic": "India: economy",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "The India-New Zealand Free Trade Agreement came into force on 20 October 2026. What access does it give Indian exports to New Zealand?",
+  "ans": "Full duty-free access",
+  "d": [
+   "50% reduced duty",
+   "Access only for farm goods",
+   "Access only for services"
+  ],
+  "exp": "The agreement gives 100 percent of Indian exports duty-free entry into the New Zealand market, as reported on 20 October 2026.",
+  "src": "The Hindu / Akashvani News, 20 October 2026",
+  "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece"
+ },
+ {
+  "id": "Q123",
+  "cat": "GK",
+  "topic": "Science and environment",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "Which gas makes up most of Earth's atmosphere?",
+  "ans": "Nitrogen",
+  "d": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "exp": "About 78 percent of the air is nitrogen. Oxygen is about 21 percent.",
+  "src": "Britannica, nitrogen",
+  "url": "https://www.britannica.com/science/nitrogen"
+ },
+ {
+  "id": "Q124",
+  "cat": "GK",
+  "topic": "Geography",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "Which is the largest hot desert in the world?",
+  "ans": "Sahara",
+  "d": [
+   "Gobi",
+   "Thar",
+   "Atacama"
+  ],
+  "exp": "The Sahara in North Africa is the largest hot desert. Antarctica is a larger cold desert, which is why the question says hot desert.",
+  "src": "Britannica, Sahara",
+  "url": "https://www.britannica.com/place/Sahara-desert-Africa"
+ },
+ {
+  "id": "Q125",
+  "cat": "GK",
+  "topic": "History and culture",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "Who wrote the song that became India's national anthem?",
+  "ans": "Rabindranath Tagore",
+  "d": [
+   "Bankim Chandra Chattopadhyay",
+   "Subhas Chandra Bose",
+   "Sarojini Naidu"
+  ],
+  "exp": "Rabindranath Tagore wrote 'Jana Gana Mana', adopted as the national anthem. Bankim Chandra Chattopadhyay wrote 'Vande Mataram', the national song.",
+  "src": "india.gov.in, national symbols",
+  "url": "https://www.india.gov.in/india-glance/national-symbols"
+ },
+ {
+  "id": "Q126",
+  "cat": "GK",
+  "topic": "Sports",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "Who won India's first individual Olympic gold medal?",
+  "ans": "Abhinav Bindra",
+  "d": [
+   "Milkha Singh",
+   "Leander Paes",
+   "Major Dhyan Chand"
+  ],
+  "exp": "Abhinav Bindra won the men's 10 metre air rifle event at the Beijing 2008 Olympics, India's first individual gold.",
+  "src": "Olympics.com, Abhinav Bindra",
+  "url": "https://www.olympics.com/en/athletes/abhinav-bindra"
+ },
+ {
+  "id": "Q127",
+  "cat": "GK",
+  "topic": "Economy",
+  "asof": "2026-10-21",
+  "mutable": false,
+  "q": "Which institution has the sole right to issue currency notes in India?",
+  "ans": "Reserve Bank of India",
+  "d": [
+   "NITI Aayog",
+   "State Bank of India",
+   "Ministry of Finance"
+  ],
+  "exp": "The Reserve Bank of India is the sole authority for issuing currency notes, except the one-rupee note issued by the Government of India.",
+  "src": "Reserve Bank of India, currency management",
+  "url": "https://www.rbi.org.in/commonperson/English/Scripts/Currency.aspx"
+ },
+ {
+  "id": "Q128",
+  "cat": "CA",
+  "topic": "India: wildlife",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "Researchers discovered three new species of which creature in the Western Ghats forests of Kerala and Karnataka, as reported on 20 October 2026?",
+  "ans": "Centipede",
+  "d": [
+   "Millipede",
+   "Scorpion",
+   "Spider"
+  ],
+  "exp": "Zoological Survey of India's Western Ghats Regional Centre and Malabar Christian College named Rhysida quadrispinosa, Rhysida coorgensis and Rhysida neyyarensis, taking India's Rhysida species count to 23. Reported 20 October 2026.",
+  "src": "Down To Earth, 20 October 2026",
+  "url": "https://www.downtoearth.org.in/wildlife-biodiversity/three-new-centipede-species-discovered-in-western-ghats"
+ },
+ {
+  "id": "Q129",
+  "cat": "CA",
+  "topic": "India: international exercise",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "AUSTRAHIND 2026, a joint military exercise that began in Kerala on 19 October 2026, is held between India and which country?",
+  "ans": "Australia",
+  "d": [
+   "Japan",
+   "France",
+   "United States"
+  ],
+  "exp": "The 5th edition of AUSTRAHIND runs from 19 October to 1 November 2026 at Thiruvananthapuram, Kerala, with about 240 personnel from India and Australia. Reported 19 October 2026.",
+  "src": "Press Information Bureau, 19 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2325246&lang=1&reg=3"
+ },
+ {
+  "id": "Q130",
+  "cat": "GK",
+  "topic": "Mathematics",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "What is the sum of the three interior angles of any triangle?",
+  "ans": "180 degrees",
+  "d": [
+   "90 degrees",
+   "270 degrees",
+   "360 degrees"
+  ],
+  "exp": "The three angles inside any triangle always add up to 180 degrees.",
+  "src": "Britannica, triangle",
+  "url": "https://www.britannica.com/science/triangle-mathematics"
+ },
+ {
+  "id": "Q131",
+  "cat": "GK",
+  "topic": "Science and space",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "Which star is nearest to the Earth?",
+  "ans": "The Sun",
+  "d": [
+   "The Moon",
+   "Polaris",
+   "Mars"
+  ],
+  "exp": "The Sun is our nearest star, about 150 million kilometres away. The Moon is not a star, and Mars is a planet.",
+  "src": "Britannica, Sun",
+  "url": "https://www.britannica.com/place/Sun"
+ },
+ {
+  "id": "Q132",
+  "cat": "GK",
+  "topic": "Science: health",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "Which vitamin does sunlight help our skin make?",
+  "ans": "Vitamin D",
+  "d": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C"
+  ],
+  "exp": "Sunlight on the skin helps the body make vitamin D, which keeps bones strong.",
+  "src": "Britannica, vitamin D",
+  "url": "https://www.britannica.com/science/vitamin-D"
+ },
+ {
+  "id": "Q133",
+  "cat": "GK",
+  "topic": "World: landmarks",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "The Eiffel Tower stands in which city?",
+  "ans": "Paris",
+  "d": [
+   "London",
+   "Rome",
+   "Berlin"
+  ],
+  "exp": "The Eiffel Tower has stood in Paris, France, since 1889.",
+  "src": "Britannica, Eiffel Tower",
+  "url": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+ },
+ {
+  "id": "Q134",
+  "cat": "GK",
+  "topic": "World: literature",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "Who wrote the Harry Potter books?",
+  "ans": "J.K. Rowling",
+  "d": [
+   "Enid Blyton",
+   "Roald Dahl",
+   "Ruskin Bond"
+  ],
+  "exp": "J.K. Rowling wrote the seven Harry Potter novels, published between 1997 and 2007.",
+  "src": "Britannica, J.K. Rowling",
+  "url": "https://www.britannica.com/biography/J-K-Rowling"
+ },
+ {
+  "id": "Q135",
+  "cat": "CA",
+  "topic": "Sports",
+  "asof": "2026-10-22",
+  "mutable": false,
+  "q": "At the Asian Para Games in Nagoya, India's Sheetal Devi won two gold medals on 22 October 2026 in which sport?",
+  "ans": "Archery",
+  "d": [
+   "Shooting",
+   "Swimming",
+   "Table tennis"
+  ],
+  "exp": "Sheetal Devi won two gold medals in archery at the Asian Para Games in Nagoya, Japan, as reported on 22 October 2026.",
+  "src": "India Today, 22 Oct 2026",
+  "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-sheetal-devi-dharmaraj-solairaj-india-medal-rush-nagoya-3022899-2026-10-22"
+ },
+ {
+  "id": "Q136",
+  "cat": "CA",
+  "topic": "Science and space",
+  "asof": "2026-10-22",
+  "mutable": true,
+  "q": "ISRO's NVS-03 navigation satellite has been cleared for a launch attempt on 30 October 2026. NVS-03 will join which Indian satellite navigation system?",
+  "ans": "NavIC",
+  "d": [
+   "GPS",
+   "Galileo",
+   "GLONASS"
+  ],
+  "exp": "ISRO indicated on 22 October 2026 that NVS-03 is cleared for a launch attempt on 30 October from Sriharikota. NVS satellites form India's own NavIC system; GPS is American, Galileo European and GLONASS Russian.",
+  "src": "Indian Express, 22 Oct 2026",
+  "url": "https://indianexpress.com/article/india/isro-nvs-03-launch-date-oct-30-navic-satellite-10931999/"
+ },
+ {
+  "id": "Q137",
+  "cat": "GK",
+  "topic": "Animals and nature",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "q": "Which animal is traditionally called the 'Ship of the Desert'?",
+  "ans": "Camel",
+  "d": [
+   "Horse",
+   "Yak",
+   "Elephant"
+  ],
+  "exp": "The camel is called the Ship of the Desert because it can carry people and loads across dry deserts for days without water.",
+  "src": "Britannica Kids, camel",
+  "url": "https://kids.britannica.com/students/article/camel/273469"
+ },
+ {
+  "id": "Q138",
+  "cat": "GK",
+  "topic": "General science",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "q": "How many days are there in a leap year?",
+  "ans": "366",
+  "d": [
+   "364",
+   "365",
+   "367"
+  ],
+  "exp": "A leap year has 366 days; the extra day is 29 February. It keeps the calendar in step with Earth's journey around the Sun.",
+  "src": "Britannica, leap year",
+  "url": "https://kids.britannica.com/scholars/article/leap-year/47526"
+ },
+ {
+  "id": "Q139",
+  "cat": "GK",
+  "topic": "World geography",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "q": "Which is the smallest continent in the world?",
+  "ans": "Australia",
+  "d": [
+   "Europe",
+   "Antarctica",
+   "South America"
+  ],
+  "exp": "Australia is the smallest continent; Asia is the largest.",
+  "src": "Britannica Kids, continent",
+  "url": "https://kids.britannica.com/students/article/continent/273790"
+ },
+ {
+  "id": "Q140",
+  "cat": "GK",
+  "topic": "General science",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "q": "How many colours are there in a rainbow?",
+  "ans": "Seven",
+  "d": [
+   "Five",
+   "Six",
+   "Eight"
+  ],
+  "exp": "A rainbow shows seven colours: violet, indigo, blue, green, yellow, orange and red.",
+  "src": "NCERT Class 10 Science, The Human Eye and the Colourful World",
+  "url": "https://ncert.nic.in/textbook/pdf/jesc110.pdf"
+ },
+ {
+  "id": "Q141",
+  "cat": "GK",
+  "topic": "History and culture",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "q": "Which festival is known as the Festival of Lights?",
+  "ans": "Diwali",
+  "d": [
+   "Holi",
+   "Eid",
+   "Christmas"
+  ],
+  "exp": "Diwali, the Festival of Lights, is celebrated with rows of lamps and candles; it falls in October or November.",
+  "src": "Britannica, Diwali",
+  "url": "https://kids.britannica.com/scholars/article/Diwali/30695"
+ },
+ {
+  "id": "Q142",
+  "cat": "GK",
+  "topic": "Geography",
+  "q": "The Prime Meridian, which passes through Greenwich, marks the zero point for which measurement?",
+  "ans": "Longitude (0 degrees)",
+  "d": [
+   "Latitude (0 degrees)",
+   "Altitude above sea level",
+   "Greenwich Mean Time"
+  ],
+  "exp": "Longitude is measured east and west from the Prime Meridian at Greenwich, counted as 0 degrees. The zero line for latitude is the Equator. The historic Greenwich line and the modern satellite reference meridian differ slightly.",
+  "src": "Royal Museums Greenwich, Prime Meridian",
+  "url": "https://www.rmg.co.uk/stories/time/what-prime-meridian-why-it-greenwich",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q110"
+ },
+ {
+  "id": "Q143",
+  "cat": "CA",
+  "topic": "India: heritage",
+  "q": "Which state's Sirpur Cultural and Archaeological Landscape was added to UNESCO's tentative World Heritage list, as reported on 20 October 2026?",
+  "ans": "Chhattisgarh",
+  "d": [
+   "Odisha",
+   "Rajasthan",
+   "Bihar"
+  ],
+  "exp": "Sirpur village lies in the Mahasamund district of Chhattisgarh, on the Mahanadi river, and is a nationally protected monument. The UNESCO tentative-list addition was reported on 20 October 2026.",
+  "src": "UNESCO tentative list, reported 20 October 2026",
+  "url": "https://whc.unesco.org/en/tentativelists/7054/",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q121",
+  "superseded_by": "Q150"
+ },
+ {
+  "id": "Q144",
+  "cat": "CA",
+  "topic": "India: economy",
+  "q": "Since the India-New Zealand Free Trade Agreement took effect on 20 October 2026, what duty applies to Indian goods exported to New Zealand?",
+  "ans": "Zero duty on all exports",
+  "d": [
+   "A flat 50% duty",
+   "Duty-free only for farm goods",
+   "Duty-free only for services"
+  ],
+  "exp": "New Zealand now gives 100% duty-free market access covering all tariff lines and all of India's current exports, The Hindu reported on 20 October 2026.",
+  "src": "The Hindu / Akashvani News, 20 October 2026",
+  "url": "https://www.thehindu.com/business/Economy/india-new-zealand-fta-comes-into-force-october-20-2026/article71603429.ece",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q122"
+ },
+ {
+  "id": "Q145",
+  "cat": "GK",
+  "topic": "History and culture",
+  "q": "'Jana Gana Mana', India's national anthem, was written by which famous poet?",
+  "ans": "Rabindranath Tagore",
+  "d": [
+   "Bankim Chandra Chattopadhyay",
+   "Subhas Chandra Bose",
+   "Sarojini Naidu"
+  ],
+  "exp": "Tagore wrote 'Jana Gana Mana', later adopted as India's national anthem. 'Vande Mataram', the national song, was written by Bankim Chandra Chattopadhyay.",
+  "src": "Britannica, Jana Gana Mana",
+  "url": "https://www.britannica.com/topic/Jana-Gana-Mana",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q125",
+  "superseded_by": "Q149"
+ },
+ {
+  "id": "Q146",
+  "cat": "CA",
+  "topic": "India: wildlife",
+  "q": "Rhysida quadrispinosa, Rhysida coorgensis and Rhysida neyyarensis, newly discovered in the Western Ghats, are three new species of which creature?",
+  "ans": "Centipede",
+  "d": [
+   "Millipede",
+   "Scorpion",
+   "Spider"
+  ],
+  "exp": "The discoveries in Kerala and Karnataka forests, by ZSI's Western Ghats Regional Centre and Malabar Christian College, bring India's known Rhysida species to 23. Reported 20 October 2026.",
+  "src": "Down To Earth, 20 October 2026",
+  "url": "https://www.downtoearth.org.in/wildlife-biodiversity/three-new-centipede-species-discovered-in-western-ghats",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q128"
+ },
+ {
+  "id": "Q147",
+  "cat": "CA",
+  "topic": "India: international exercise",
+  "q": "Which country's army is exercising with the Indian Army at AUSTRAHIND 2026 in Thiruvananthapuram, Kerala?",
+  "ans": "Australia",
+  "d": [
+   "Japan",
+   "France",
+   "United States"
+  ],
+  "exp": "The 5th edition of the India-Australia exercise AUSTRAHIND 2026 runs from 19 October to 1 November 2026, with about 120 personnel from each side. Reported 19 October 2026.",
+  "src": "Press Information Bureau, 19 October 2026",
+  "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2325246&lang=1&reg=3",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q129"
+ },
+ {
+  "id": "Q148",
+  "cat": "GK",
+  "topic": "Science and space",
+  "q": "Of all the stars, which one is closest to the Earth?",
+  "ans": "The Sun",
+  "d": [
+   "The Moon",
+   "Polaris",
+   "Mars"
+  ],
+  "exp": "At about 150 million kilometres away, the Sun is Earth's closest star; the next nearest, Proxima Centauri, is far farther still. The Moon is not a star, and Mars is a planet.",
+  "src": "Britannica, Sun",
+  "url": "https://www.britannica.com/place/Sun",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q131"
+ },
+ {
+  "id": "Q149",
+  "cat": "GK",
+  "topic": "History and culture",
+  "q": "India's national anthem began as a Bengali poem by a Nobel Prize-winning writer. Who wrote it?",
+  "ans": "Rabindranath Tagore",
+  "d": [
+   "Bankim Chandra Chattopadhyay",
+   "Subhas Chandra Bose",
+   "Sarojini Naidu"
+  ],
+  "exp": "The anthem 'Jana Gana Mana' comes from Rabindranath Tagore's Bengali poem 'Bharoto Bhagyo Bidhata'; its first stanza was adopted on 24 January 1950. The national song 'Vande Mataram' is by Bankim Chandra Chattopadhyay.",
+  "src": "Britannica, Jana Gana Mana",
+  "url": "https://www.britannica.com/topic/Jana-Gana-Mana",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "reword_of": "Q125"
+ },
+ {
+  "id": "Q150",
+  "cat": "CA",
+  "topic": "India: heritage",
+  "asof": "2026-10-23",
+  "mutable": false,
+  "q": "A UNESCO tentative-list nomination reported on 20 October 2026 covers the archaeological landscape of Sirpur village, in Mahasamund district. In which state does it lie?",
+  "ans": "Chhattisgarh",
+  "d": [
+   "Odisha",
+   "Rajasthan",
+   "Bihar"
+  ],
+  "exp": "The nomination, reported on 20 October 2026, is for the Sirpur Cultural and Archaeological Landscape in Chhattisgarh's Mahasamund district, on the Mahanadi river; the site is also a nationally protected monument.",
+  "src": "UNESCO tentative list, reported 20 October 2026",
+  "url": "https://whc.unesco.org/en/tentativelists/7054/",
+  "reword_of": "Q121"
+ }
+]
