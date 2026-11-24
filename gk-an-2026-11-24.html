@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>General awareness practice ga24c3f0e71d</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>General awareness practice ga24c3f0e71d</title>
 <style>body{font-family:system-ui,sans-serif;max-width:680px;margin:1rem auto;padding:0 1rem;line-height:1.45}.q{border:1px solid #ccc;border-radius:8px;padding:.7rem;margin:.7rem 0}label{display:block;padding:.25rem 0}.ok{color:#0a6b2c;font-weight:600}.bad{color:#b00020;font-weight:600}.tag{font-size:.8rem;color:#555}button{font-size:1rem;padding:.6rem 1rem;margin:.3rem 0}#res{display:none}code{background:#eee;padding:.3rem;display:block;overflow-wrap:anywhere}</style></head><body>
 <h1>General awareness practice ga24c3f0e71d</h1><p>10 questions &middot; current affairs and general knowledge &middot; easy level. Pick one answer for every question, then press Submit. Facts are as of the date in each explanation.</p>
 <div id="qs"></div><p id="warn" class="bad"></p><button id="sub">Submit</button>
@@ -9,5 +9,5 @@ document.getElementById("sub").onclick=()=>{const un=D.qs.map((q,i)=>document.qu
 rv+='<div class="q"><b>'+(i+1)+'.</b> <span class="'+(ok?'ok">Correct':'bad">Wrong')+'</span><br>Answer: '+L[q.a]+". "+esc(q.o[q.a])+"<br>"+esc(q.x)+'<br><span class="tag">Source: <a href="'+q.u+'" target="_blank" rel="noopener">'+esc(q.s)+"</a></span></div>"});
 document.getElementById("score").textContent="Score: "+s+"/10";document.getElementById("rev").innerHTML=rv;
 document.getElementById("code").textContent="GKQ|"+D.id+"|"+s+"/10|"+a+"|"+D.date;document.getElementById("res").style.display="block";document.getElementById("sub").disabled=true;};
-document.getElementById("copy").onclick=()=>{navigator.clipboard.writeText(document.getElementById("code").textContent);document.getElementById("copy").textContent="Copied"};
+document.getElementById("copy").onclick=async()=>{try{await navigator.clipboard.writeText(document.getElementById("code").textContent);document.getElementById("copy").textContent="Copied"}catch(e){const r=document.createRange();r.selectNodeContents(document.getElementById("code"));const s=window.getSelection();s.removeAllRanges();s.addRange(r);document.getElementById("copy").textContent="Copy failed - code selected; copy manually"}};
 </script></body></html>
